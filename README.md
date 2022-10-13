@@ -3,11 +3,12 @@
 Participants:
 
 - Leader: [Nguyen Ngoc Huyen - 20521423]
-- Member: [Name - ID]
-- Member: [Name - ID]
+- Member: [Pham Ha Minh Quyen - 20521824]
+- Member: [Nguyen Thi Ngoc Thao - 20521935]
+- Member: [Nguyen Tran Chi Duc - 20521199]
 
 
-Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
+Task management table: [here](https://trello.com/b/ilcNE8C4/project-management) [Replace by your public board later]
 
 UI / UX prototype: [here](https://www.figma.com/file/HPItpL9Ea8kNQIzWbNyQCk/Untitled?node-id=0%3A1) [Replace by your public prototype later]
 
