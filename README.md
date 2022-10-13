@@ -2,7 +2,7 @@
 
 Participants:
 
-- Leader: [Name - ID]
+- Leader: [Nguyen Ngoc Huyen - 20521423]
 - Member: [Name - ID]
 - Member: [Name - ID]
 
