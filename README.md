@@ -19,7 +19,7 @@ Tech stacks:
 - Database: [...]
 - ...
 
-Demo online: [link to website - update later]
+Demo : https://www.figma.com/file/NcCBcoTZ1MZNMY1WcOOjYY/Group2?node-id=141%3A192&t=46mJvy5vhjP0CEEi-0
 
 *[Delete below text when you forked]*
 
